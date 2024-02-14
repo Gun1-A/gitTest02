@@ -1,1 +1,1 @@
-阅读须知
+这是使用ssh协议连接github，下载克隆gitTest02.git仓库
